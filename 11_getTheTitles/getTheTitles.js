@@ -5,7 +5,7 @@ const array = [
         author: 'Name'
     },
     {
-        title: 'Book23',
+        title: 'Book2',
         author: 'Name2'
     }
 ];
