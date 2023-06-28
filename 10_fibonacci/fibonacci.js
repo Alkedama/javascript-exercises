@@ -17,7 +17,7 @@ const fibonacci = function(num) {
         array.push(result);
     }
 
-    return array[num];
+    return array[nums];
 
 };
 
