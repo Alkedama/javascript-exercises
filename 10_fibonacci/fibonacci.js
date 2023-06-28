@@ -1,6 +1,7 @@
 const fibonacci = function(num) {
     let result = 0;
     let array = [];
+    let nothing;
     
     array.push(0);
 

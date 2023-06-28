@@ -1,4 +1,6 @@
 const getTheTitles = function() {
+    let nothing; 
+    
 const array = [
     {
         title: 'Book',
