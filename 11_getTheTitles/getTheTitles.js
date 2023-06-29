@@ -1,5 +1,4 @@
 const getTheTitles = function() {
-    let nothing; 
     
 const array = [
     {
@@ -13,7 +12,7 @@ const array = [
 ];
 
 
-return array.map((book) => book.title);
+return array.map((book) => { book.author});
 
 };
 
